@@ -1,0 +1,26 @@
+h1 {
+    text-align: left;
+    font-size: 72px;
+    color: #111;
+    font-family: "Nike Futura","Helvetica Neue",Helvetica ,Arial ,sans-serif;
+    margin-left: 2rem;
+
+}
+
+
+input {
+    margin-left: 2rem;
+}
+
+p {
+    margin-left: 2rem;
+}
+
+/* ul {
+    margin-top: 2rem;
+    margin-left: 2rem;
+}  */
+
+nav {
+    margin-bottom: 2rem;
+}

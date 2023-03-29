@@ -1,0 +1,33 @@
+.card {
+    height: 100%;
+}
+
+h1 {
+    color: white;
+}
+
+.nav-item{
+    text-decoration: none;
+}
+
+p {
+    color: #212529
+}
+
+.col {
+    margin-top: 4rem;
+}
+
+a {
+    color: #f5f5f6;
+    text-decoration: none;
+}
+
+
+nav-link {
+    color: #f5f5f6;
+}
+
+#carouselIndicators {
+    margin-top: 1rem
+}
